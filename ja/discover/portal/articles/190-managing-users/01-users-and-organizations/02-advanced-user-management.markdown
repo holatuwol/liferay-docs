@@ -82,7 +82,7 @@ header-id: user-management-additional-topics
 
     users.screen.name.allow.numeric=false
 
-他のユーザー管理システム（LDAPなど）には同じ制限がなかったため、ユーザーのインポートがより困難になりました。 管理者は、インポートする前に最初に上記のプロパティを `true` に設定する必要があり、画面名がサイトIDと競合しないことを期待していました。 @ product-ver @では、このプロパティのデフォルトは `true` であり、数値のスクリーン名がサイトIDと競合する危険はありません。
+他のユーザー管理システム（LDAPなど）には同じ制限がなかったため、ユーザーのインポートがより困難になりました。 管理者は、インポートする前に最初に上記のプロパティを `true` に設定する必要があり、画面名がサイトIDと競合しないことを期待していました。 @product-ver@では、このプロパティのデフォルトは `true` であり、数値のスクリーン名がサイトIDと競合する危険はありません。
 
     users.screen.name.allow.numeric=true
 
@@ -104,7 +104,7 @@ header-id: user-management-additional-topics
    
         http://localhost:8080/web/24601
 
-この競合はもはや起こりえません。 @ product-ver @では、サイトのわかりやすいURLを数値にすることはできません。 自分で見て：
+この競合はもはや起こりえません。 @product-ver@では、サイトのわかりやすいURLを数値にすることはできません。 自分で見て：
 
 1.  サイトの *構成* → *サイト設定* → *サイトURL* セクションに移動します。
 

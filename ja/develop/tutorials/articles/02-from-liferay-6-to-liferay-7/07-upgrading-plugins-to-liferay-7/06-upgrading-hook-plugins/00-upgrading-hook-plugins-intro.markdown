@@ -6,7 +6,7 @@ header-id: upgrading-hook-plugins
 
 [TOC levels=1-4]
 
-@product@にはこれまで以上に多くの拡張ポイントがあるため、既存のフックプラグインをそれらに接続する手順はほとんどありません。 ほとんどの場合、Liferay Upgrade Plannerを使用してフックをアップグレードすると、@<product@>で実行する準備が整います。 次のチュートリアルでは、フックプラグインの各タイプをアップグレードする方法を示します。
+@product@にはこれまで以上に多くの拡張ポイントがあるため、既存のフックプラグインをそれらに接続する手順はほとんどありません。 ほとんどの場合、Liferay Upgrade Plannerを使用してフックをアップグレードすると、@product@で実行する準備が整います。 次のチュートリアルでは、フックプラグインの各タイプをアップグレードする方法を示します。
 
   - [オーバーライド/拡張モジュール](/docs/7-1/tutorials/-/knowledge_base/t/upgrading-customization-modules)
   - [コアJSPフック](/docs/7-1/tutorials/-/knowledge_base/t/upgrading-core-jsp-hooks)

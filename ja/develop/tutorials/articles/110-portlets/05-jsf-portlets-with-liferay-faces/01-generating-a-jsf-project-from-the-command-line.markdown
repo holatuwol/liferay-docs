@@ -14,7 +14,7 @@ header-id: generating-a-jsf-application
 
 \！P[ビデオサムネイル](https://portal.liferay.dev/documents/113763090/113919826/jsf-vid-thumbnail.png)
 
-Before generating your JSF application, you should first visit [liferayfaces.org](http://liferayfaces.org/), a great reference spot for JSF application development targeted for @<product@>. このサイトでは、JSFアプリケーションのオプションを選択し、選択したオプションでアプリケーションを生成するために実行できるMavenアーキタイプコマンドを生成できます。 次のアーキタイプオプションを選択できます。
+Before generating your JSF application, you should first visit [liferayfaces.org](http://liferayfaces.org/), a great reference spot for JSF application development targeted for @product@. このサイトでは、JSFアプリケーションのオプションを選択し、選択したオプションでアプリケーションを生成するために実行できるMavenアーキタイプコマンドを生成できます。 次のアーキタイプオプションを選択できます。
 
   - Liferayポータルバージョン
   - JSFバージョン

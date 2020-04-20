@@ -22,7 +22,7 @@ Liferayの開発ツールは、迅速に開発作業を始めるうえで役立�
 
 次の手順を実行します：
 
-1.  [ Java開発キット（JDK）](http://www.oracle.com/technetwork/java/javase/downloads/index.html)をダウンロードしてインストールします。 @product@はJavaで実行されます。 Liferay @<ide@>で@product@アプリケーションを開発するため、JDKが必要です。 JDKは、新しいJava技術を開発するために使用されるJava環境の拡張バージョンです。 JDK 8またはJDK 11を使用します。
+1.  [ Java開発キット（JDK）](http://www.oracle.com/technetwork/java/javase/downloads/index.html)をダウンロードしてインストールします。 @product@はJavaで実行されます。 Liferay @ide@で@product@アプリケーションを開発するため、JDKが必要です。 JDKは、新しいJava技術を開発するために使用されるJava環境の拡張バージョンです。 JDK 8またはJDK 11を使用します。
 
 2.  [Liferay @ide@](/docs/7-1/tutorials/-/knowledge_base/t/installing-liferay-ide)をダウンロードしてインストールしてください。システム上の便利なロケーションに解凍して簡単にインストールできます。
 

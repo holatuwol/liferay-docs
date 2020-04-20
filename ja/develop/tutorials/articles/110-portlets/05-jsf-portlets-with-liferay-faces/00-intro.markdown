@@ -12,7 +12,7 @@ header-id: jsf-portlets-with-liferay-faces
 
 Java EE標準を使用してMVCベースのポートレットを開発しますか？ 洗練されたリッチなUIを簡単に開発できるUIコンポーネントモデルでポートレット開発フレームワークを使用しますか？ それとも、@product@で使用したいJSFを使用してWebアプリを書いていますか？ これらの質問のいずれかに *はい* と答えた場合、あなたは幸運です！ Liferay Facesは、これらすべての機能などを提供します。
 
-Liferay Faces is an umbrella project that provides support for the JavaServer™ Faces (JSF) standard in @<product@>. 次のプロジェクトが含まれます。
+Liferay Faces is an umbrella project that provides support for the JavaServer™ Faces (JSF) standard in @product@. 次のプロジェクトが含まれます。
 
   - [Liferay Faces Bridge](/docs/7-1/reference/-/knowledge_base/r/understanding-liferay-faces-bridge) 使用すると、ポートレット固有のJavaコードを記述することなく、JSF Webアプリをポートレットとしてデプロイできます。 また、ポートレットアプリケーション内でJSF 2.xのパワーを活用できるようにする革新的な機能も含まれています。 Liferay Faces Bridgeは、JSR 329/378 Portlet Bridge Standardを実装しています。
   - [Liferay Faces Alloy](/docs/7-1/reference/-/knowledge_base/r/understanding-liferay-faces-alloy) では、JSF開発と一貫した方法でAlloyUIコンポーネントを使用できます。

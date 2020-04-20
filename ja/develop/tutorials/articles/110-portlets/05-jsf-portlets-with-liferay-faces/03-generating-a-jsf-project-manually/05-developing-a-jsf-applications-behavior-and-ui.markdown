@@ -75,7 +75,7 @@ header-id: developing-a-jsf-applications-behavior-and-ui
   
   最後に、 `<h:outputText>` タグは、ページに送信された名前に *Hello*プレフィックスを付けて印刷します。</ol> 
 
-驚くばかり\！ Hello User JSFアプリケーションが完成しました！ Deploy your WAR to @<product@>. WARスタイルのポートレットがデプロイされると、WAB Generatorを介してWABに変換されることに注意してください。 訪問 [WABジェネレータ使用](/docs/7-1/tutorials/-/knowledge_base/t/using-the-wab-generator) このプロセスの詳細や、ポートレットの結果のフォルダ構造のためのチュートリアルを。
+驚くばかり\！ Hello User JSFアプリケーションが完成しました！ Deploy your WAR to @product@. WARスタイルのポートレットがデプロイされると、WAB Generatorを介してWABに変換されることに注意してください。 訪問 [WABジェネレータ使用](/docs/7-1/tutorials/-/knowledge_base/t/using-the-wab-generator) このプロセスの詳細や、ポートレットの結果のフォルダ構造のためのチュートリアルを。
 
 ![図1：ユーザーの名前を送信すると、挨拶とともに表示されます。](../../../../images/hello-user-jsf-portlet.png)
 

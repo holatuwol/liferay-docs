@@ -8,7 +8,7 @@ header-id: services-in-jsf
 
 [TOC levels=1-4]
 
-Creating services works the same in a JSF portlet as it would in any other standard WAR-style MVC portlet; generate custom services as separate API and Impl JARs and deploy them as individual modules to @<product@>. Service Builderを使用して、JSFポートレットのカスタムサービスを生成できます。 @product@でのService Builderの動作の詳細については、 [Service Builder](/docs/7-1/tutorials/-/knowledge_base/t/service-builder) チュートリアルをご覧ください。
+Creating services works the same in a JSF portlet as it would in any other standard WAR-style MVC portlet; generate custom services as separate API and Impl JARs and deploy them as individual modules to @product@. Service Builderを使用して、JSFポートレットのカスタムサービスを生成できます。 @product@でのService Builderの動作の詳細については、 [Service Builder](/docs/7-1/tutorials/-/knowledge_base/t/service-builder) チュートリアルをご覧ください。
 
 JSF WARは、 *が* 依存関係としてAPIモジュールに依存できます。 この方法でサービスをパッケージ化する主な利点は、複数のWARがすべてのWARの `WEB-INF / lib` フォルダーにパッケージ化せずに同じカスタムサービスAPIを利用できるようにすることです。 この方法はまた、関心の分離、又は強制 *モジュール*のシステムのUI層とサービス層との間を、。
 
